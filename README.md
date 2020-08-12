@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on : Ethical Hacking , Cyber Security
-- 🌱 I’m currently learning : Tools in Ethical Hacking , bug bounty
+- 🔭 I’m currently working on :Cyber Security
+- 🌱 I’m currently learning :Tools in Ethical Hacking
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
