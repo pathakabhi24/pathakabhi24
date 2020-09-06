@@ -32,15 +32,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-
 [twitter]: https://twitter.com/abhipathak24
 [instagram]: https://www.instagram.com/abhipathak24/
 [linkedin]: https://www.linkedin.com/in/abhinav-pathak-b34593138/
