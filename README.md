@@ -1,7 +1,6 @@
 ### Hi there, I'm Abhinav 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/c?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fabhipathak&screen_name=abhipathak24)
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/c?color=1DA1F2&logo=twitter&style=for-the-badge)]
 ## I'm a Cyber Security Enthusiast | Computer Engineer | Network Security Specialist
 
 - 🔭 I’m currently working on  : Cyber Security , Ethical Hacking , Networking
