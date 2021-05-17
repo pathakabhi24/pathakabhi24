@@ -1,4 +1,12 @@
-## Hey 👋, I'm [Abhinav Pathak!](https://github.com/pathakabhi24/)
+<h3 align="center">
+  Welcome to Abhinav Pathak profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=149BFD&size=25&lines=A+Cyber+Security+Enthusiast;Self+Taught+Programmer;A+Computer+Engineer;Always+Try+to+Learn+New+Things)](https://git.io/typing-svg)></a>
+</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pathakabhi24/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/abhipathak24/)
