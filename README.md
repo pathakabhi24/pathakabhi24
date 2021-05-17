@@ -36,6 +36,18 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Abhinav Spotify Playing" width="350" />](https://open.spotify.com/playlist/33LihGwrgStDBsaj9Z8Wxh)
 
 
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/pathakabhi24/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/pathakabhi24/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pathakabhi24streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pathakabhi24&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
+<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
