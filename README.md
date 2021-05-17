@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber%20Security%20Enthuasist;Self%20Taught%2FProgrammer;10%2B%Computer%20Engineer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber%20Security%20Enthuasist;Self%20Taught%20Programmer;10%Computer%20Engineer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pathakabhi24/)
