@@ -1,7 +1,6 @@
 ## Hey 👋, I'm [Abhinav Pathak!](https://github.com/pathakabhi24/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pathakabhi24/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/abhipathak24/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/abhipathak24/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Abhipathak)
@@ -12,7 +11,6 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Abdu
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-[![](https://gitwar.herokuapp.com/badge?username=pathakabhi24&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)]
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -35,7 +33,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Abhinav Spotify Playing" width="350" />](https://open.spotify.com/playlist/33LihGwrgStDBsaj9Z8Wxh)
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="pathakabhi24 Spotify Playing" width="350" />](https://open.spotify.com/playlist/33LihGwrgStDBsaj9Z8Wxh)
+
 
 
 ## 🔥 Streak stats
