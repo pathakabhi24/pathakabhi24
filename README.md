@@ -1,6 +1,7 @@
 ## Hey 👋, I'm [Abhinav Pathak!](https://github.com/pathakabhi24/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pathakabhi24/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/abhipathak24/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/abhipathak24/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Abhipathak)
@@ -14,7 +15,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [![](https://gitwar.herokuapp.com/badge?username=pathakabhi24&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
 
 ### Talking about Personal Stuffs:
 
@@ -31,6 +31,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
+
 
 
 ### Spotify Playing 🎧
