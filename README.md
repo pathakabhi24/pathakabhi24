@@ -47,7 +47,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br />
 <br />
 
----
-[twitter]: https://twitter.com/abhipathak24
-[instagram]: https://www.instagram.com/abhipathak24/
-[linkedin]: https://www.linkedin.com/in/abhinav-pathak-b34593138/
+## ⚡ GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=pathakabhi24&show_icons=true&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathakabhi24&layout=compact&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=pathakabhi24&theme=gruvbox" />
+<a href="https://github.com/rafi0101/Android-Room-Database-Backup" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pathakabhi24&repo=Android-Room-Database-Backup&theme=gruvbox""></a>
+<a href="https://github.com/rafi0101/Stundenplan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pathakabhi24&repo=Stundenplan&theme=gruvbox""></a>
+
