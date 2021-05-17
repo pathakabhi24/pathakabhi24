@@ -51,7 +51,5 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=pathakabhi24&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathakabhi24&layout=compact&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=pathakabhi24&theme=gruvbox" />
-<a href="https://github.com/rafi0101/Android-Room-Database-Backup" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pathakabhi24&repo=Android-Room-Database-Backup&theme=gruvbox""></a>
-<a href="https://github.com/rafi0101/Stundenplan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pathakabhi24&repo=Stundenplan&theme=gruvbox""></a>
+
 
