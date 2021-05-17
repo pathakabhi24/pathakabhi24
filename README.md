@@ -15,7 +15,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working on  : Cyber Security , Ethical Hacking , Networking.
@@ -26,13 +25,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 📫 &nbsp; How to reach me: pathakabhi684@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1Y1NCrkgI-G2s_0_XcVfrcwwZN4vT5ql2/view?usp=sharing).
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
+
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Abhinav Spotify Playing" width="350" />](https://open.spotify.com/playlist/33LihGwrgStDBsaj9Z8Wxh)
