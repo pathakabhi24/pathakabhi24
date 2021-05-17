@@ -12,9 +12,9 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Abdu
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-[![](https://gitwar.herokuapp.com/badge?username=pathakabhi24&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+[![](https://gitwar.herokuapp.com/badge?username=pathakabhi24&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)]
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### Talking about Personal Stuffs:
 
