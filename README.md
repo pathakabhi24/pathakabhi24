@@ -1,11 +1,11 @@
 <h3 align="center">
-  Welcome to Abhinav Pathak profile👋
+  Welcome to Abhinav Pathak profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber%20Security%20Enthuasist;Self%20Taught%20Programmer;Computer%20Engineer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Cooper+Black&color=F76A27&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Engineer%F0%9F%92%BB;I'm+Cyber+Security+Enthusiast;Have+Knowledge+of+Ethical+Hacking;Always+try+to+learn+new+things)></a>
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pathakabhi24/)
