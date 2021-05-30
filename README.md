@@ -19,7 +19,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Abdu
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-<img align="right" alt="GIF" src="https://tenor.com/bAVRC.gif?raw=true" width="500" height="320" />
+<img src="https://tenor.com/bAVRC.gif" width="40" height="40" />
 
 ### Talking about Personal Stuffs:
 
