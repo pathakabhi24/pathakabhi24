@@ -1,7 +1,7 @@
-<h3 align="center">
+<h2 align="center">
   Welcome to Abhinav Pathak profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=20&center=true&vCenter=true&width=1000&height=20&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Engineer%F0%9F%92%BB;I'm+Cyber+Security+Enthusiast;Have+Knowledge+of+Ethical+Hacking;Always+try+to+learn+new+things)](https://git.io/typing-svg)
 
