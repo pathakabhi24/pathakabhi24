@@ -41,7 +41,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="pathakabhi24 Spotify Playing" width="350" />](https://open.spotify.com/playlist/33LihGwrgStDBsaj9Z8Wxh)
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=pathakabhi24&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="pathakabhi24"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathakabhi24&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="pathakabhi24"/> </p>
+<h3 align="center">I'm currently vibing to 🎧</h3>
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=aiwyvhgyvp3hl5ca1p8xtr40i&cover_image=true&theme=compact" height="300px" alt="spotify"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=aiwyvhgyvp3hl5ca1p8xtr40i" alt="spotify" height="300px"/></p>
+
 
 
 
