@@ -21,7 +21,6 @@ I'm a final year student pursuing Bachelors's in Computer Science & Engineering 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
 
 ### Talking about Personal Stuffs:
