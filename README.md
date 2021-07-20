@@ -46,7 +46,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="pathakabhi24 Spotify Playing" width="350" />](https://open.spotify.com/playlist/33LihGwrgStDBsaj9Z8Wxh)
 
 
-
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/pathakabhi24/github-readme-streak-stats -->
