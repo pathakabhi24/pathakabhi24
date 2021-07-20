@@ -11,7 +11,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Abhipathak)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://pathakabhi24.medium.com/)
 
-<img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="500" height="400">
+<img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="300" height="300">
 
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=pathakabhi24&style=flat-square&color=0088cc)
@@ -70,6 +70,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=pathakabhi24&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathakabhi24&layout=compact&count_private=true&theme=gruvbox" />
+
+
+
+
+
+
+
 
 
 <div align="center">
