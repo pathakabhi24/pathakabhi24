@@ -39,13 +39,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 
-
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="200" height="auto"/> </a>
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="pathakabhi24 Spotify Playing" width="350" />](https://open.spotify.com/playlist/33LihGwrgStDBsaj9Z8Wxh)
 
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="200" height="auto"/> </a>
+
 
 ## 🔥 Streak stats
 
