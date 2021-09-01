@@ -16,7 +16,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=pathakabhi24&style=flat-square&color=0088cc)
 
-I'm a final year student pursuing Bachelors's in Computer Science & Engineering 🎓 . I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently learing Cyber Security 🕸️ and working on strong my knowledge on Networking and Ethical Hacking 🤓.
+I'm graduated with a Degree in Bachelor of Technology in Computer Science & Engineering 🎓 . I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently learning Cyber Security 🕸️ and working on strong my knowledge on Networking and Ethical Hacking 🤓.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
