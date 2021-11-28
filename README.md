@@ -42,9 +42,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="200" height="auto"/> </a>
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="pathakabhi24 Spotify Playing" width="350" />](https://open.spotify.com/playlist/33LihGwrgStDBsaj9Z8Wxh)
+<h3 align="center">I'm currently vibing to 🎧</h3>
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=aiwyvhgyvp3hl5ca1p8xtr40i&cover_image=true&theme=compact" height="300px" alt="spotify"> </p>
+
 
 
 ## 🔥 Streak stats
