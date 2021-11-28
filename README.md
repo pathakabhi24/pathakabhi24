@@ -44,7 +44,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 <h3 align="center">I'm currently vibing to 🎧</h3>
-[![Spotify](https://abhinav-pathak.vercel.app/api/spotify)](https://open.spotify.com/user/aiwyvhgyvp3hl5ca1p8xtr40i)
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" height="300px" alt="spotify"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=n0rm1kq3erv1julqyq7evfmgi" alt="spotify" height="300px"/></p>
+
 
 
 
