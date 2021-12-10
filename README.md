@@ -27,7 +27,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on  : Cyber Security , Ethical Hacking , Networking.
+- 🛠 &nbsp; I’m currently working on  : Bash Scripting, Python Scripting, SOCs, Blue Teaming.
 - 🚀 &nbsp; I’m currently learning  : Tools of Ethical Hacking , Bug Bounty.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pathakabhi24).
 - 💬 &nbsp; Ask me about anything [here](https://www.instagram.com/abhipathak24/)! I am happy to help.
