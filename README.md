@@ -27,11 +27,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ### Talking about Personal Stuffs:
 
-- 🔭 I’m currently working on ...**Read Teaming, Web Application & Network Penetration Testing**
-- 🌱 I’m currently learning ...**Bash Scripting, Python Scripting, SOCs, Blue Teaming**
-- 🤔 I’m looking for help with ...**Web Application Penetration Testing**
+- 🔭 I’m currently working on : **Read Teaming, Web Application & Network Penetration Testing**
+- 🌱 I’m currently learning : **Bash Scripting, Python Scripting, SOCs, Blue Teaming**
+- 🤔 I’m looking for help with : **Web Application Penetration Testing**
 - 👨🏻‍💻 Most of my projects are available on[Github](https://github.com/pathakabhi24)
-- 💬 Ask me about anything [here](https://www.instagram.com/abhipathak24/)! I am happy to help.
+- 💬 Ask me about anything [here](https://www.instagram.com/abhipathak24/)
 - 👾 Fun fact: **I am Hardcore video game player**
 - 📫 How to reach me: **pathakabhi684@gmail.com**
 
