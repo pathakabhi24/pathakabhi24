@@ -27,17 +27,17 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on  : Bash Scripting, Python Scripting, SOCs, Blue Teaming.
-- 🚀 &nbsp; I’m currently learning  : Tools of Ethical Hacking , Bug Bounty.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pathakabhi24).
-- 💬 &nbsp; Ask me about anything [here](https://www.instagram.com/abhipathak24/)! I am happy to help.
-- 👾 &nbsp; Fun fact: I love to play videos games
-- 📫 &nbsp; How to reach me: pathakabhi684@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1Y1NCrkgI-G2s_0_XcVfrcwwZN4vT5ql2/view?usp=sharing).
+- 🔭 I’m currently working on ...**Read Teaming, Web Application & Network Penetration Testing**
+- 🌱 I’m currently learning ...**Bash Scripting, Python Scripting, SOCs, Blue Teaming**
+- 🤔 I’m looking for help with ...**Web Application Penetration Testing**
+- 👨🏻‍💻 Most of my projects are available on ... **[Github]*(https://github.com/pathakabhi24)**
+- 💬 Ask me about anything [here]... **(https://www.instagram.com/abhipathak24/)! I am happy to help.
+- 👾 Fun fact: **I am Hardcore video game player**
+- 📫 How to reach me: **pathakabhi684@gmail.com**
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs from using that technology.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="200" height="auto"/> </a>
