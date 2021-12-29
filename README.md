@@ -12,7 +12,7 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://pathakabhi24.medium.com/)
 
   <p align="center">
-  <img width="800" height="411" src="https://miro.medium.com/max/2000/1*XBTMNifEbG57bYXydcZ6vA.gif">
+  <img width="1000" height="500" src="https://miro.medium.com/max/2000/1*XBTMNifEbG57bYXydcZ6vA.gif">
   </p>
 
 
