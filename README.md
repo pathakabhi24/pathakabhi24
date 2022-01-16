@@ -14,7 +14,12 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Science+Engineer%F0%9F%92%BB;I'm+Cyber+Security+Researcher;Always+try+to+learn+new+things)](https://git.io/typing-svg)
 
-<h3 align="left">Connect with me:</h3>
+<h3>
+  Connect With Me
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+  </a>
+</h3>
 <p align="left">
 <a href="https://twitter.com/abhipathak24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhipathak24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pathakabhi24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathakabhi24" height="30" width="40" /></a>
