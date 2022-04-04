@@ -47,7 +47,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on : **Read Teaming, Web Application & Network Penetration Testing**
+- 🔭 I’m currently working on : **Red Teaming, Web Application & Network Penetration Testing**
 - 🌱 I’m currently learning : **Bash Scripting, Python Scripting, SOCs, Blue Teaming**
 - 🤔 I’m looking for help with : **Web Application Penetration Testing**
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/pathakabhi24)
