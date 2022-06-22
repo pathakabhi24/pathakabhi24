@@ -8,9 +8,9 @@
   </a>
 </h2>
 
-<h2 align="center"> 
-<img src="https://github.com/b4dcat404/b4dcat404.github.io/blob/main/images/intro.gif" width="100%"/>
-</h2>
+<h1 align="center"> 
+<img src="https://github.com/pathakabhi24/pathakabhi24/blob/master/pixel.gif" width="105%"/>
+</h1>
 
 
 
