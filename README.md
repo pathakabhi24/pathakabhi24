@@ -17,8 +17,22 @@
 
 
 
+
+<br/>
+<br/>
+
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Science+Engineer%F0%9F%92%BB;A+Cyber+Security+Researcher💻;Reverse+Engineering+Lover💙)](https://git.io/typing-svg)
+
+
+
+
+
+
+
+
+
 ## 👽 wh0am1 ? 🤔
-<h1 align="center">Hi <img src="https://github.com/MayankPandey01/MayankPandey01/blob/main/Hi.gif" width="30px"> I'm Abhinav Pathak</h1>
 
 <h3 align="center">Programmer🚀 | Cyber Security Researcher💻 | Reverse Engineering Lover💙</h3>
 <p align="center">
@@ -38,13 +52,13 @@
 <p align="center">
   <em>
     This is, Abhinav Pathak, a <b>Computer Science</b> Engineer <br>
-    A passionate learner who's always willing to learn and work across <b>technlogies and domains</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and <b>I'm currently learning Cyber Security and working on strong my knowledge on Networking and Ethical Hacking</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>I am <b>obsessed</b>
+    A passionate learner who's always willing to learn and work across <b>technlogies and domains</b> and <b>I'm currently learning Cyber Security and working on strong my knowledge on Networking and Ethical Hacking</b>&nbsp;&nbsp,<br>I am <b>obsessed</b>
     with the idea of <b>improving</b> myself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    <b>grow</b> and 
+    <b>excel</b> &nbsp.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+   <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
 </p>
 
 
@@ -52,7 +66,9 @@
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+
+
+***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
 🌱 I’m currently learning **Bash Scripting, SOCs, Blue Teaming, Reverse Engineeering** <br>
@@ -64,8 +80,8 @@
 ⚡ Fun fact : **No technology that’s connected to the Internet is unhackable**<br><br><br><br>
 
 
-
-
+***
+<img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
 
 
 
@@ -73,12 +89,10 @@
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" height="300px" alt="spotify"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=n0rm1kq3erv1julqyq7evfmgi" alt="spotify" height="300px"/></p>
 
 
-
 <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Contributions</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-
-
+ <i><b>GitHub Contributions</b></i>
+  
 <!-- GitHub Readme Streak Stats - https://github.com/pathakabhi24/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/pathakabhi24/github-readme-streak-stats">
@@ -91,7 +105,22 @@
 
 
 
-<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px">&nbsp;**Languages & Tools I Know...**
+
+***
+<img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
+
+
+
+
+
+
+
+<!--Languages and tools-->
+
+
+  <h2 align="center"> 🚀 Languages and Tools:</h2>  
+
+
 <p align="left">
 
 
