@@ -9,7 +9,7 @@
 </h2>
 
 <h1 align="center"> 
-<img src="https://github.com/pathakabhi24/pathakabhi24/blob/master/pixel.gif" width="105%"/>
+<img src="https://github.com/pathakabhi24/pathakabhi24/blob/master/pixel.gif" width="100%"/>
 </h1>
 
 
