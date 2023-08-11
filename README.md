@@ -1,8 +1,7 @@
 <h2 align="center">
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;Welcome to the Profile/&gt;!
+  नमस्ते (Namaste), Welcome to the Profile!
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
@@ -40,6 +39,7 @@
 <a href="https://linkedin.com/in/pathakabhi24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathakabhi24" height="30" width="40" /></a>
 <a href="https://instagram.com/abhipathak24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhipathak24" height="30" width="40" /></a>
 <a href="https://medium.com/@pathakabhi24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pathakabhi24" height="30" width="40" /></a>
+<a href="mailto:pathakabhi684@gmail.com" target="blank"><img img align="center" src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 </a>
 </p>
 </p>
@@ -149,7 +149,16 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
-**Show some ❤️ by starring some of the repositories!**
+
+### <h2 align="center">Support Me💰</h2>
+
+ <p align="center"> 
+<a href="https://www.buymeacoffee.com/pathakabhi24" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
+</p>
+
+
+
+### Show some ❤️ by starring ⭐ some of the repositories!
 
 </div>
 
