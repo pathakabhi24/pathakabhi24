@@ -8,13 +8,8 @@
 </h2>
 
 <h1 align="center"> 
-<img src="https://github.com/pathakabhi24/pathakabhi24/blob/master/pixel.gif" width="100%"/>
+<img src="https://github.com/pathakabhi24/pathakabhi24/blob/master/hacker.jpg" width="3000%"/>
 </h1>
-
-
-
-
-
 
 
 <br/>
@@ -117,8 +112,7 @@
 
 <!--Languages and tools-->
 
-
-  <h2 align="center"> 🚀 Languages and Tools:</h2>  
+<h2 align="center"> 🚀 Languages and Tools:</h2>  
 
 
 <p align="left">
@@ -146,8 +140,12 @@
 <div align="center">
 
 <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+    <img src="https://profile-counter.glitch.me/pathakabhi24/count.svg">
 </p>
+
+
+
+
 
 
 ### <h2 align="center">Support Me💰</h2>
