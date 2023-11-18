@@ -28,7 +28,7 @@
 
 ## 👽 wh0am1 ? 🤔
 
-<h3 align="center">Programmer🚀 | Cyber Security Researcher💻 | Reverse Engineering Lover💙</h3>
+<h3 align="center"> Information Security Specialist👨‍💻| Security Researcher 🔎| Blogger🌐</h3>
 <p align="center">
 <a href="https://twitter.com/i_amsphinx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhipathak24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pathakabhi24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathakabhi24" height="30" width="40" /></a>
@@ -44,17 +44,27 @@
 
  
 
-<p align="center">
-  <em>
-    This is, Abhinav Pathak, a <b>Computer Science</b> Engineer <br>
-    A passionate learner who's always willing to learn and work across <b>technlogies and domains</b> and <b>I'm currently learning Cyber Security and working on strong my knowledge on Networking and Ethical Hacking</b>&nbsp;&nbsp,<br>I am <b>obsessed</b>
-    with the idea of <b>improving</b> myself and wants a <b>platform</b> to 
-    <b>grow</b> and 
-    <b>excel</b> &nbsp.
-  </em> 
-  <br>
-   <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
-</p>
+
+
+### 👨🏻‍💻 &nbsp;About Me
+
+I go online by the alias @i_amsphinx. Hello! I am the Infosec guy who wants to break the stuff present on the internet and see how things actually works. I love to assess & break application logics. I have been passionate about Cyber Security & Hacking for quite a long and it keeps my spirit driving. . I'm a passionate learner who's always willing to learn and work across technologies and domains :bulb:  
+
+After completing Bachelor of Technology in Computer Science, I have started my professional journey as Infosec Analyst. Currently, as a consultant at Publicis Groupe, I provide expert guidance and solutions to clients in the realm of cyber and strategic risk, ensuring the confidentiality, integrity, and availability of critical assets while minimizing risk and enhancing organizational resilience.
+
+With having 2 years of experience in information security and IT audit, I have led and executed end-to-end security assessments, IT audits, and risk assessments for diverse clients across various industries, delivering actionable recommendations and customized remediation strategies to address identified security gaps, ensuring compliance with industry best practices and regulatory requirements.
+
+I have also worked with several teams to developing and implementing robust information security frameworks, policies, and procedures, aligning them with industry standards and frameworks such as ISO 27001, NIST, and optimizing security controls and performance.
+
+I hold a Bachelor's degree in Computer science :mortar_board:, where I gained in-depth knowledge and skills in various domains such as cryptography, network security, digital forensics, and cybercrime.
+
+I am a self-taught cyber-security researcher who loves going offensive and currently, I'm focused on continuous learning and collaboration opportunities to further enhance our information security landscape.
+
+I am passionate about staying updated on the latest trends and developments in cyber security and applying them to solve real-world challenges and create value for my clients and stakeholders. I love to contribute to the infosec community in any way I can. I always look forward to learning and experimenting stuff with like-minded people and expanding my spectrum of knowledge 🤓. 
+
+I love 💖 doing things for the infosec community, I contribute to the community by actively tweeting [Twitter](https://twitter.com/i_amsphinx) and writing [blog posts](https://medium.com/@iabhipathak) to share the stuff and resources relate to various beginner cybersecurity topics.
+
+Please feel free to connect with me here or on LinkedIn for meaningful talks and collaborations.
 
 
 ***
@@ -66,17 +76,18 @@
 ***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-🌱 I’m currently learning **Bash Scripting, SOCs, Blue Teaming, Reverse Engineeering** <br>
-👨🏽‍💻 Currently working on something cool <br>
-🤖 Making **Tools for Automation** in Cyber Security and Bug Bounty <br>
+🌱 I’m currently learning **Blue & Red Teaming, Web 3 Security** <br>
+👨🏽‍💻 Currently working on **Learning of Cybersecurity for 365 Days** <br>
 👯 I’m looking to collaborate with any **Open - Source contribution**<br>
-🔭 I’m currently working on : **Red Teaming, Web Application & Network Penetration Testing** <br>
-💬 Ask me about anything, I am happy to help <br>
+🔭 I’m currently working on : **Information Security, Application Security** <br>
+💬 Ask me about anything on Cybersecurity, I am happy to help <br>
 ⚡ Fun fact : **No technology that’s connected to the Internet is unhackable**<br><br><br><br>
 
 
 ***
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
+
+
 
 
 
