@@ -14,7 +14,6 @@
 
 <br/>
 <br/>
-
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Science+Engineer%F0%9F%92%BB;A+Cyber+Security+Researcher💻;Reverse+Engineering+Lover💙)](https://git.io/typing-svg)
 
@@ -48,7 +47,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I go online by the alias [@i_amsphinx](https://twitter.com/i_amsphinx). Hello! I am the Infosec guy who wants to break the stuff present on the internet and see how things actually works. I love to assess & break application logics. I have been passionate about Cyber Security & Hacking for quite a long and it keeps my spirit driving. . I'm a passionate learner who's always willing to learn and work across technologies and domains :bulb:  
+I go online by the alias [@i_amsphinx](https://twitter.com/i_amsphinx). Hello! I am the Infosec guy who wants to break the stuff present on the internet and see how things actually works. I love to assess & break application logics. I have been passionate about Cyber Security & Hacking for quite a long and it keeps my spirit driving. I'm a passionate learner who's always willing to learn and work across technologies and domains :bulb:  
 
 A self-taught cyber-security researcher who loves going offensive and currently, I'm focused on continuous learning and collaboration opportunities to further enhance our information security landscape.
 
@@ -71,17 +70,17 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
 👯 I’m looking to collaborate with any **Open - Source contribution**<br>
 🔭 I’m currently working on : **Information Security, Application Security** <br>
 💬 Ask me about anything on Cybersecurity, I am happy to help <br>
-⚡ Fun fact : **No technology that’s connected to the Internet is unhackable**<br><br><br><br>
+⚡ Fun fact : **No technology that’s connected to the Internet is unhackable** <br>
 
 ***
-<img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
+<img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="200px" align="right">
 
+<div align="center" width="50">
+  
+<p><strong>
+<br><br> Vibing to : 🎧  </strong></p>
 
-
-
-
-<h3 align="center">I'm currently vibing to 🎧</h3>
-<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" height="300px" alt="spotify"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=n0rm1kq3erv1julqyq7evfmgi" alt="spotify" height="300px"/></p>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
 
 <hr>
@@ -97,15 +96,11 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-
-
 ***
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
 
-
-
 <!--Languages and tools-->
-<h2 align ="center"> 🚀 Languages and Tools:</h2>  
+<h2 align ="left"> 🚀 Languages and Tools:</h2>  
 
 
 <p align="center">
@@ -116,16 +111,10 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
 <br/>
 
 
-
-
-
-
-
 ## ⚡ GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=pathakabhi24&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathakabhi24&layout=compact&count_private=true&theme=gruvbox" />
-
 
 
 #
@@ -137,16 +126,11 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
 </p>
 
 
-
-
-
-
 ### <h2 align="center">Support Me💰</h2>
 
  <p align="center"> 
 <a href="https://www.buymeacoffee.com/pathakabhi24" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
 </p>
-
 
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
