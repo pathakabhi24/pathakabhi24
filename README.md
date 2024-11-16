@@ -117,8 +117,65 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathakabhi24&layout=compact&count_private=true&theme=gruvbox" />
 
 
+<hr>
+
+
+</div>
+<div align=center>
+   <a href="https://medium.com/@iabhipathak">
+   <img width=100% height=100% align="center" alt="Youtube" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%3452eb&center=true&vCenter=true&width=450%&lines=Maybe+read+some+of+my+blogs+?" />
+   </a>
+   <div align=left>
+      <table>
+         <tr>
+            <th>Title</th>
+            <th>Link</th>
+            <th>Categories</th>
+         </tr>
+         <!-- BLOG-POST-LIST:START -->
+         <tr>
+            <td>How to get started in Cyber Security?💫</td>
+            <td><a href="https://medium.com/@iabhipathak/how-to-get-started-in-cyber-security-4d23fc8ee8a6">Medium</a></td>
+            <td><code>airlines, information-technology, microsoft, windows, healthcare</code></td>
+         </tr>
+         <tr>
+            <td>Cybersecurity Learning Path🚀</td>
+            <td><a href="https://infosecwriteups.com/cybersecurity-learning-path-19f64f6a547e">Medium</a></td>
+            <td><code>machine-learning, technology, artificial-intelligence, cloud-computing, aws</code></td>
+         </tr>
+         <tr>
+            <td>Web 3.0 in Security💯</td>
+            <td><a href="https://medium.com/coinmonks/web-3-0-in-security-38a8d23c591e">Medium</a></td>
+            <td><code>free, cloud-computing, open-source, engineering, web-development</code></td>
+         </tr>
+         <tr>
+            <td>Roadmap of Web 3 in Cybersecurity🚀</td>
+            <td><a href="https://faun.pub/roadmap-of-web-3-in-cybersecurity-dd18d2ffe7f">Medium</a></td>
+            <td><code>cloud-computing, erpnext, python, aws, postgresql</code></td>
+         </tr>
+         <tr>
+            <td>What is Bug Bounty!🚀</td>
+            <td><a href="https://infosecwriteups.com/what-is-bug-bounty-fc9fe6a73e16">Medium</a></td>
+            <td><code>social-media, money, programming, productivity, ai</code></td>
+         </tr>
+         <!-- BLOG-POST-LIST:END -->
+      </table>
+   </div>
+</div>
+
 #
 
+<div align="center">
+
+  <!-- Support Me Section -->
+  <h2 align="left">Support Me💰</h2>
+  <p align="center"> 
+    <a href="https://www.buymeacoffee.com/pathakabhi24" target="_blank">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" >
+    </a>
+  </p>
+
+#
 <div align="center">
 
 <a href="https://github.com/DenverCoder1/Simple-View-Counter">
@@ -126,15 +183,14 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
 </p>
 
 
-### <h2 align="center">Support Me💰</h2>
 
- <p align="center"> 
-<a href="https://www.buymeacoffee.com/pathakabhi24" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
-</p>
+
+
 
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
 </div>
+
 
 
