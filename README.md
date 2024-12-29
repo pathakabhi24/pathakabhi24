@@ -136,27 +136,27 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
          <tr>
             <td>How to get started in Cyber Security?💫</td>
             <td><a href="https://medium.com/@iabhipathak/how-to-get-started-in-cyber-security-4d23fc8ee8a6">Medium</a></td>
-            <td><code>airlines, information-technology, microsoft, windows, healthcare</code></td>
+            <td><code>cyber-security, information-security, hacking, Security, privacy</code></td>
          </tr>
          <tr>
             <td>Cybersecurity Learning Path🚀</td>
             <td><a href="https://infosecwriteups.com/cybersecurity-learning-path-19f64f6a547e">Medium</a></td>
-            <td><code>machine-learning, technology, artificial-intelligence, cloud-computing, aws</code></td>
+            <td><code>infosec, technology, learning-path, cybersec</code></td>
          </tr>
          <tr>
             <td>Web 3.0 in Security💯</td>
             <td><a href="https://medium.com/coinmonks/web-3-0-in-security-38a8d23c591e">Medium</a></td>
-            <td><code>free, cloud-computing, open-source, engineering, web-development</code></td>
+            <td><code>Web 3.0, security, blockchain, hacking, cybersecurity</code></td>
          </tr>
          <tr>
             <td>Roadmap of Web 3 in Cybersecurity🚀</td>
             <td><a href="https://faun.pub/roadmap-of-web-3-in-cybersecurity-dd18d2ffe7f">Medium</a></td>
-            <td><code>cloud-computing, erpnext, python, aws, postgresql</code></td>
+            <td><code>roadmap, cybersecurity, hacking</code></td>
          </tr>
          <tr>
             <td>What is Bug Bounty!🚀</td>
             <td><a href="https://infosecwriteups.com/what-is-bug-bounty-fc9fe6a73e16">Medium</a></td>
-            <td><code>social-media, money, programming, productivity, ai</code></td>
+            <td><code>bug-bounty, money, programming, hacking, security</code></td>
          </tr>
          <!-- BLOG-POST-LIST:END -->
       </table>
