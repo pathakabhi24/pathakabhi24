@@ -7,8 +7,8 @@
   </a>
 </h2>
 
-<h1 align="center"> 
-<img src="https://github.com/pathakabhi24/pathakabhi24/blob/master/hacker.jpg" width="3000%"/>
+<h1 align="center">
+  <img src="https://www.behance.net/gallery/245968003/Working-Alone/modules/1421320541" width="8000%/>
 </h1>
 
 
@@ -18,31 +18,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Science+Engineer%F0%9F%92%BB;A+Cyber+Security+Researcher💻;Reverse+Engineering+Lover💙)](https://git.io/typing-svg)
 
 
-
-
-
-
-
-
-
 ## 👽 wh0am1 ? 🤔
 
-<h3 align="center"> Information Security Consultant👨‍💻| Security Researcher 🔎| Blogger🌐</h3>
-<p align="center">
-<a href="https://twitter.com/i_amsphinx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhipathak24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pathakabhi24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathakabhi24" height="30" width="40" /></a>
-<a href="https://instagram.com/abhipathak24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhipathak24" height="30" width="40" /></a>
-<a href="https://medium.com/@pathakabhi24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pathakabhi24" height="30" width="40" /></a>
-<a href="mailto:pathakabhi684@gmail.com" target="blank"><img img align="center" src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
+<h3 align="center"> Cybersecurity & AI Consultant👨‍💻| Security Researcher 🔎| Blogger🌐</h3>
+<p align="center"> 
+<a href="https://www.linkedin.com/in/pathakabhi24" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.x.com/i_amsphinx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="http://www.medium.com/@iabhipathak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.dev.to/pathakabhi24" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" /> </picture> </a> <a href="https://www.threads.net/@abhipathak24" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> </p>
 </a>
 </p>
 </p>
 
-
 </p>
-
- 
-
 
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -65,10 +50,10 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
 ***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-🌱 I’m currently learning **Blue & Red Teaming, Web 3 Security** <br>
+🌱 I’m currently learning **AI Security, Web 3 Security** <br>
 👨🏽‍💻 Currently working on **Learning of Cybersecurity for 365 Days** <br>
-👯 I’m looking to collaborate with any **Open - Source contribution**<br>
-🔭 I’m currently working on : **Information Security, Application Security** <br>
+👯 I’m looking to collaborate with any **Open - Source contribution on AI Related Stuffs**<br>
+🔭 I’m currently working on : **Aritifical Intelligence, AI Security, Infosec, Cybersec** <br>
 💬 Ask me about anything on Cybersecurity, I am happy to help <br>
 ⚡ Fun fact : **No technology that’s connected to the Internet is unhackable** <br>
 
@@ -80,7 +65,12 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
 <p><strong>
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+[![Spotify]((https://spotify-github-profile.kittinanx.com)](https://open.spotify.com/user/somnathpaul) <br>
+
+
+
+
+
 
 
 <hr>
@@ -102,11 +92,33 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
 <!--Languages and tools-->
 <h2 align ="left"> 🚀 Languages and Tools:</h2>  
 
-
-<p align="center">
-
-
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <img width = '32px'  src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg"/> <img width = '142px'  src="https://cdn.worldvectorlogo.com/logos/vmware-1.svg"/> </p>
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" title="PyCharm"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="eclipse" title="eclipse"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" alt="LangChain" title="LangChain"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png" alt="Arch Linux" title="Arch Linux"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="Kali Linux" title="Kali Linux"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" alt="Arduino" title="Arduino"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" alt="Raspberri Pi" title="Raspberri Pi"/></code>
+</div>
 
 <br/>
 
@@ -115,8 +127,6 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=pathakabhi24&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathakabhi24&layout=compact&count_private=true&theme=gruvbox" />
-
-
 <hr>
 
 
@@ -185,12 +195,28 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
 
 
 
-
-
-
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
 </div>
 
 
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=7ld7q89dE5etlqq60XTiVy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=7ld7q89dE5etlqq60XTiVy&redirect=true)
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+<a href="https://twitter.com/i_amsphinx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhipathak24" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pathakabhi24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathakabhi24" height="30" width="40" /></a>
+<a href="https://instagram.com/abhipathak24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhipathak24" height="30" width="40" /></a>
+<a href="https://medium.com/@pathakabhi24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pathakabhi24" height="30" width="40" /></a>
+<a href="mailto:pathakabhi684@gmail.com" target="blank"><img img align="center" src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 
