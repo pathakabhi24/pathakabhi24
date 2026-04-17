@@ -8,14 +8,13 @@
 </h2>
 
 <h1 align="center">
-  <img src="https://www.behance.net/gallery/245968003/Working-Alone/modules/1421320541" width="8000%/>
+  <img src="https://github.com/pathakabhi24/pathakabhi24/blob/master/Alone%201920.gif" width="15000%/>
 </h1>
-
 
 <br/>
 <br/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Science+Engineer%F0%9F%92%BB;A+Cyber+Security+Researcher💻;Reverse+Engineering+Lover💙)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Science+Engineer%F0%9F%92%BB;A+Cyber+Security+Researcher💻;AI+Security💙)](https://git.io/typing-svg)
 
 
 ## 👽 wh0am1 ? 🤔
@@ -63,14 +62,7 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
 <div align="center" width="50">
   
 <p><strong>
-<br><br> Vibing to : 🎧  </strong></p>
-
-[![Spotify]((https://spotify-github-profile.kittinanx.com)](https://open.spotify.com/user/somnathpaul) <br>
-
-
-
-
-
+<br><br> 
 
 
 <hr>
@@ -84,12 +76,8 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
   </a>
 </p>
 
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-***
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
-
-<!--Languages and tools-->
 <h2 align ="left"> 🚀 Languages and Tools:</h2>  
 
 <div align="center">
@@ -198,25 +186,3 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
 </div>
-
-
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=7ld7q89dE5etlqq60XTiVy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=7ld7q89dE5etlqq60XTiVy&redirect=true)
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-<a href="https://twitter.com/i_amsphinx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhipathak24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pathakabhi24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathakabhi24" height="30" width="40" /></a>
-<a href="https://instagram.com/abhipathak24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhipathak24" height="30" width="40" /></a>
-<a href="https://medium.com/@pathakabhi24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pathakabhi24" height="30" width="40" /></a>
-<a href="mailto:pathakabhi684@gmail.com" target="blank"><img img align="center" src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
-
