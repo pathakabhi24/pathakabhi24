@@ -31,16 +31,17 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I go online by the alias [@i_amsphinx](https://twitter.com/i_amsphinx). Hello! I am the Infosec guy who wants to break the stuff present on the internet and see how things actually works. I love to assess & break application logics. I have been passionate about Cyber Security & Hacking for quite a long and it keeps my spirit driving. I'm a passionate learner who's always willing to learn and work across technologies and domains :bulb:  
+Hey, I'm Abhinav [@i_amsphinx](https://twitter.com/i_amsphinx). 
+A Security professional working at the intersection of AI and cybersecurity. During the day I work to help enterprises build security programs that hold up under real-world pressure. Outside of that I'm usually reading about how AI systems break, how attackers will abuse agentic workflows, and what defenders need to do differently because of it.
 
-A self-taught cyber-security researcher who loves going offensive and currently, I'm focused on continuous learning and collaboration opportunities to further enhance our information security landscape.
+I started in this field the way most people do curious, breaking things, learning how stuff actually works under the hood. That curiosity hasn't gone anywhere. It just evolved from poking at application logic to thinking about how entire AI stacks fail at a systemic level.
 
-I am passionate about staying updated on the latest trends and developments in cyber security and applying them to solve real-world challenges and create value for my clients and stakeholders. I love to contribute to the infosec community in any way I can. I always look forward to learning and experimenting stuff with like-minded people and expanding my spectrum of knowledge 🤓. 
+I write about AI security, emerging threats, and things I find genuinely interesting in the security space on [Medium](https://medium.com/@iabhipathak). I try to write things 
+I would have wanted to read — practical, opinionated, not just a summary of what everyone else already said.
+Shorter takes, threads, and things I'm reading live on [Twitter/X](https://twitter.com/i_amsphinx).
 
-I love 💖 doing things for the infosec community, I contribute to the community by actively tweeting [Twitter](https://twitter.com/i_amsphinx) and writing [blog posts](https://medium.com/@iabhipathak) to share the stuff and resources relate to various beginner cybersecurity topics.
-
-Please feel free to connect with me here or on LinkedIn for meaningful talks and collaborations.
-
+Always open to conversations about AI security, emerging threats, research collaborations, or just swapping notes on something interesting. Find me on 
+[LinkedIn](https://linkedin.com/in/pathakabhi24) or reach out directly via [Twitter](https://twitter.com/i_amsphinx).
 
 ***
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
@@ -55,14 +56,6 @@ Please feel free to connect with me here or on LinkedIn for meaningful talks and
 🔭 I’m currently working on : **Aritifical Intelligence, AI Security, Infosec, Cybersec** <br>
 💬 Ask me about anything on Cybersecurity, I am happy to help <br>
 ⚡ Fun fact : **No technology that’s connected to the Internet is unhackable** <br>
-
-***
-<img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="200px" align="right">
-
-<div align="center" width="50">
-  
-<p><strong>
-<br><br> 
 
 
 <hr>
